@@ -1,3 +1,6 @@
 __pycache__/  
 models/*.pkl  
 .env 
+__pycache__/ 
+*.pyc 
+.env 

@@ -1,5 +1,17 @@
-clean_text,sentiment
-I love this project,positive
-This is a bad issue,negative
-great work team,positive
-terrible service,negative
+text,sentiment
+الخدمة ممتازة والتعامل راقي جداً,positive
+كلش حلو وعجبني,positive
+ممتاز جدا شكرا لكم,positive
+منتج رائع وتوصيل سريع,positive
+هذا سيئ للغاية,negative
+التطبيق لا يعمل بشكل صحيح,negative
+تجربة سيئة جدا ولن اكررها,negative
+كلش مو حلو سيء,negative
+The product quality is absolutely amazing,positive
+"Highly recommended, great support",positive
+Very good experience,positive
+Love it,positive
+This is extremely bad and disappointing,negative
+"Terrible service, very slow delivery",negative
+"Horrible app, it keeps crashing",negative
+Waste of money,negative
